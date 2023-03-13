@@ -9,10 +9,13 @@
 
 이 리스트에 적힌 언어들은 추가 예정입니다! 체크되어 있다면 저희 팀 레포에 있다는 말입니다!
 
-[x]Typescript
-[ ]Rust
-[ ]Python
-[ ]Java
+[ ] Typescript
+
+[ ] Rust
+
+[ ] Python
+
+[ ] Java
 
 ## Contribute 
 
